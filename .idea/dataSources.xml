@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="2149830509">
-    <data-source source="LOCAL" name="MySQL - homestead@homestead.app" uuid="472c776f-3a1d-4756-b508-e0956756f5d1">
+  <component name="DataSourceManagerImpl" format="xml" hash="629902053">
+    <data-source source="LOCAL" name="MySQL - homestead@todolog.app" uuid="f0dfaf76-0b1d-4121-80f3-8a6ce7349868">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://homestead.app:3306/homestead</jdbc-url>
+      <jdbc-url>jdbc:mysql://todolog.app:3306/homestead</jdbc-url>
       <driver-properties>
         <property name="zeroDateTimeBehavior" value="convertToNull" />
         <property name="tinyInt1isBit" value="false" />
